@@ -6,7 +6,7 @@ This repository contains the configuration files I use for my development enviro
 * **Bash Profile:** My customized bash profile for a more personalized and productive terminal experience.
 * **ESLint:** My preferred ESLint configuration for consistent code style and linting.
 
-> [!DISCLAIMER]
+> [!WARNING]
 > These configurations are based on my personal preferences and may not be suitable for everyone. Use them as a starting point and adjust them to fit your workflow.
 
 ## Using this repository
