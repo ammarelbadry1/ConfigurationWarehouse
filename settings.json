@@ -2,7 +2,7 @@
     "workbench.colorCustomizations": {
         "editorError.foreground": "#00000000",
         "editorWarning.foreground": "#00000000",
-        "editorInfo.foreground": "#00000000"
+        "editorInfo.foreground": "#00000000",
     },
     "workbench.colorTheme": "GitHub Dark Default",
     "workbench.iconTheme": "material-icon-theme",
@@ -18,7 +18,6 @@
     "editor.inlineSuggest.suppressSuggestions": true,
     "editor.suggest.snippetsPreventQuickSuggestions": true,
     "emmet.showAbbreviationSuggestions": false,
-    "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.acceptSuggestionOnEnter": "off",
     "editor.inlineSuggest.enabled": false,
     "editor.screenReaderAnnounceInlineSuggestion": false,
@@ -110,8 +109,8 @@
     "scss.lint.unknownProperties": "ignore",
     "scss.lint.vendorPrefix": "ignore",
     "vscode_custom_css.imports": [
-        "file:///C:/Users/{YOUR_USER_NAME}/custom-layout.css",
-        "file:///C:/Users/{YOUR_USER_NAME}/custom-script.js"
+        "file:///C:/Users/osoul-office/custom-vscode.css",
+        "file:///C:/Users/osoul-office/vscode-script.js"
     ],
     "editor.minimap.enabled": false,
     "editor.inlineSuggest.showToolbar": "never",
@@ -145,5 +144,25 @@
     "less.hover.references": false,
     "npm.scriptHover": false,
     "editor.hover.enabled": false,
-    "editor.stickyScroll.enabled": false
+    "editor.stickyScroll.enabled": false,
+    "js/ts.implicitProjectConfig.strictFunctionTypes": false,
+    "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "json.validate.enable": false,
+    "javascript.format.enable": false,
+    "javascript.validate.enable": false,
+    "javascript.format.insertSpaceAfterCommaDelimiter": false,
+    "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+    "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "javascript.preferences.useAliasesForRenames": false,
+    "javascript.preferences.renameMatchingJsxTags": false,
+    "js/ts.implicitProjectConfig.strictNullChecks": false,
+    "typescript.check.npmIsInstalled": false,
+    "typescript.surveys.enabled": false,
+    "javascript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
 }
