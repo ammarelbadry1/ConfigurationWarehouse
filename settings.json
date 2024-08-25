@@ -2,7 +2,7 @@
     "workbench.colorCustomizations": {
         "editorError.foreground": "#00000000",
         "editorWarning.foreground": "#00000000",
-        "editorInfo.foreground": "#00000000",
+        "editorInfo.foreground": "#00000000"
     },
     "workbench.colorTheme": "GitHub Dark Default",
     "workbench.iconTheme": "material-icon-theme",
@@ -109,8 +109,8 @@
     "scss.lint.unknownProperties": "ignore",
     "scss.lint.vendorPrefix": "ignore",
     "vscode_custom_css.imports": [
-        "file:///C:/Users/osoul-office/custom-vscode.css",
-        "file:///C:/Users/osoul-office/vscode-script.js"
+        "file:///C:/Users/{USERNAME}/custom-layout.css",
+        "file:///C:/Users/{USERNAME}/custom-script.js"
     ],
     "editor.minimap.enabled": false,
     "editor.inlineSuggest.showToolbar": "never",
@@ -164,5 +164,5 @@
     "typescript.check.npmIsInstalled": false,
     "typescript.surveys.enabled": false,
     "javascript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false,
-    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnCommitCharacter": false
 }
